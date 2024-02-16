@@ -9,7 +9,7 @@ Source: "The Superstore Dataset 2017”, Accessed via [Kaggle](https://www.kaggl
 
 ## Folder structure:
 1. Project Management
-   - Analysis report
+   - Case study
 2. Data
 3. Scripts
 4. Analysis
